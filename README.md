@@ -1,2 +1,2 @@
 # Andriod-Applications
-List of app that are need to be added 
+List of app  or packages that's are need to add in the custom 
